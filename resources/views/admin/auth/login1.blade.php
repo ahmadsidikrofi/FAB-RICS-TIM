@@ -42,15 +42,7 @@
                                             autocomplete="email" autofocus>
                                     </div>
                                 </div>
-
-                                {{-- <div class="row mb-3">
-                                    <label for="name" class=" col-form-label">Username</label>
-
-                                    <div class="col-md-12">
-                                        <input class="form-control" name="name" id="name" type="text" required
-                                            autocomplete="name" autofocus>
-                                    </div>
-                                </div> --}}
+                                    {{-- perubahan 1 --}}
 
                                 <div class="row mb-3">
                                     <label for="password" class=" col-form-label">Password</label>
