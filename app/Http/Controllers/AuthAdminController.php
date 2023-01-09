@@ -25,6 +25,11 @@ class AuthAdminController extends Controller
             'password' => 'required|confirmed|min:5'
         ]);
 
+        $checkEmail = ModelsAuthAdmin::where('email', $request->email)->first();
+        if ( $checkEmail ) {
+            return redirect()->back()->with('error', 'Email Sudah Terdaftar');
+        }
+
         ModelsAuthAdmin::create([
             'name' => $request->name,
             'email' => $request->email,

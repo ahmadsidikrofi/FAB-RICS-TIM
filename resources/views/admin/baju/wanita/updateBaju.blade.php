@@ -17,7 +17,7 @@
             <div class="col-lg-5 mt-3">
                 <img src="/image/items/{{ $bajuWanita->image }}" width="400px" class="rounded shadow bg-white" alt="">
             </div>
-                {{-- perubahan 1 --}}
+                {{-- perubahan 4 --}}
 
             <div class="col-lg-7 px-5 pt-2">
                 <form action="/baju/woman/{{ $bajuWanita->id }}/update/store" method="post" enctype="multipart/form-data">

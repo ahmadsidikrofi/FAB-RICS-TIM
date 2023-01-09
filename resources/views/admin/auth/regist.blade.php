@@ -38,7 +38,7 @@
 </head>
 
 <body>
-     {{-- perubahan 2 --}}
+     {{-- perubahan 4 --}}
     <section class="form my-4 mx-5 mt-5">
         <div class="container">
             <div class="row g-0" style="box-shadow: 10px 10px 10px -2px rgba(0, 0, 0, 0.3)">
@@ -58,6 +58,13 @@
                                     <input class="" name="name" id="name" type="text" required autocomplete="name" autofocus placeholder="Username">
                                     <i></i>
                                 </div>
+                                <i class="@error('error') is-invalid @enderror"></i>
+
+                                @if (session('error'))
+                                    <small>
+                                        <strong class="text-danger">{{ session('error') }}</strong>
+                                    </small>
+                                @endif
                             </div>
                         </div>
 

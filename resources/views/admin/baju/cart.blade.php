@@ -7,10 +7,12 @@ $count = Cart::where('user_id', Auth::user()->id)->count()
 
 
 ?>
+{{-- perubahan 4 --}}
 
 @extends('partials.navbarAuth')
 
 @section('content')
+
     <title>Keranjangmu</title>
     <link rel="stylesheet" href="/css/inputCart.css">
     <style>

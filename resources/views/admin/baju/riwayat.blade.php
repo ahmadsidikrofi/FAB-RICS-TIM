@@ -8,6 +8,8 @@ $count = Cart::where('user_id', Auth::user()->id)->count()
 
 @section('content')
 
+{{-- perubahan 4 --}}
+
 <div class="site-section site-blocks-2 block-1 bg-white">
     <div class="container mt-2 mb-4">
         <div class="row">
