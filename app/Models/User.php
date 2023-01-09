@@ -12,6 +12,20 @@ class User extends Authenticatable
 {
     use HasApiTokens, HasFactory, Notifiable;
 
+
+    protected $table = "users";
+    protected $guarded = [];
+
+    public function getProfile()
+    {
+        if (!$this->image) {
+            return asset('/image/profile/cowo.png');
+        }
+
+        return asset('/image/profile/' .$this->image);
+    }
+
+
     /**
      * The attributes that are mass assignable.
      *
@@ -41,4 +55,25 @@ class User extends Authenticatable
     protected $casts = [
         'email_verified_at' => 'datetime',
     ];
+
+    public function wanita()
+    {
+        return $this->hasMany(BajuWanita::class);
+    }
+
+    public function BajuPria()
+    {
+        return $this->hasMany(BajuPria::class);
+    }
+
+    public function BajuAnak()
+    {
+        return $this->hasMany(BajuAnak::class);
+    }
+
+    public function cart()
+    {
+        return $this->hasMany(Cart::class);
+    }
+
 }
