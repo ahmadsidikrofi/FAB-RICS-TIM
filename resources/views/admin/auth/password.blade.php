@@ -14,7 +14,7 @@
             </div>
         </div>
 
-        {{-- perubahan 1 --}}
+        {{-- perubahan 2 --}}
         <div class="container">
             <div class="row">
                 <div class="card-change_password mx-auto rounded">

@@ -1,7 +1,6 @@
 @extends('partials.navbarBefore')
 
 @section('content')
-    <!-- team section  -->
     <div class="site-section border-bottom" data-aos="fade">
         <div class="container">
             <div class="row justify-content-center mb-5">
@@ -63,7 +62,7 @@
                             <div class="block-38-header">
                                 <img src="image/tim/4.png" alt="Image placeholder" class="mb-4">
                                 <h3 class="block-38-heading h4">RIDA NAPISA</h3>
-                                <p class="block-38-subheading">DATABASE MODEL</p>
+                                <p class="block-38-subheading">Cloudy</p>
                             </div>
                             <div class="block-38-body">
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae aut minima nihil sit
@@ -106,7 +105,6 @@
             </div>
         </div>
     </div>
-    <!-- team section end -->
 
     <!-- Content page -->
     <section class="bg0 p-t-75 p-b-120 mt-5">
