@@ -1,0 +1,187 @@
+/* input username */
+.inputbox {
+    position: relative;
+    width: 300px;
+}
+
+.inputbox input {
+    position: relative;
+    width: 100%;
+    padding: 20px 10px 10px;
+    background: transparent;
+    outline: none;
+    box-shadow: none;
+    border: none;
+    color: #23242a;
+    font-size: 1em;
+    letter-spacing: 0.05em;
+    transition: 0.5s;
+    z-index: 10;
+}
+
+.inputbox span {
+    position: absolute;
+    left: 0;
+    padding: 20px 10px 10px;
+    font-size: 1em;
+    color: #8f8f8f;
+    letter-spacing: 00.05em;
+    transition: 0.5s;
+    pointer-events: none;
+}
+
+.inputbox input:valid~span,
+.inputbox input:focus~span {
+    color: #7d72eb;
+    transform: translateX(-10px) translateY(-34px);
+    font-size: 0, 75em;
+}
+
+.inputbox i {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 2px;
+    background: #7d72eb;
+    border-radius: 4px;
+    transition: 0.5s;
+    pointer-events: none;
+    z-index: 9;
+}
+
+.inputbox input:valid~i,
+.inputbox input:focus~i {
+    height: 44px;
+}
+
+
+/* Input Profile */
+
+.input {
+    color: #212121;
+    border: 2px solid #e8e8e8;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: #e8e8e8;
+    font-size: small;
+    font-weight: bold;
+    text-align: left;
+    transition: 0.5s;
+}
+
+.input:focus {
+    outline-color: #7d72eb;
+    background-color: #e8e8e8;
+    color: #212121;
+    box-shadow: 5px 5px #000000;
+}
+
+/* Foto profil */
+.card {
+    width: 350px;
+    height: 300px;
+    background-color: #eee;
+    text-align: center;
+    border: 10px solid #eee;
+    border-radius: 20px;
+    box-shadow: inset 5px 5px 10px #bbb, inset -5px -5px 10px #fff;
+    transition: 0.5s;
+}
+
+.card:hover {
+    height: 500px;
+}
+
+.icon {
+    font-size: 30px;
+    /* background-color: #eee; */
+    margin: 20px auto;
+    padding: 5px;
+    /* border-radius: 50%;
+    box-shadow: 8px 8px 10px #ddd, -8px -8px 10px #fff; */
+}
+
+.content {
+    color: #999;
+    background-color: #eee;
+    padding: 10px;
+    margin: 5px 20px;
+    border-radius: 8px;
+    box-shadow: 8px 8px 10px #ddd, -8px -8px 10px #fff;
+    transform: translateY(-80px) scale(0);
+    transition: all 0.5s;
+}
+
+.card:hover .content {
+    transform: translateY(0) scale(1)
+}
+
+.content h3 {
+    text-shadow: 2px 2px 0px #fff;
+    color: #7d72eb;
+}
+
+
+/* Change Password */
+.card-change_password {
+    background: #7d72eb;
+    transition: all 900ms;
+    width: 70%;
+
+}
+
+.card-change_password:hover {
+    background: black;
+    color: white;
+    opacity: 0.8;
+    transform: scale(1.10);
+}
+
+
+body{
+
+    background-color:#7d72eb;
+    border-radius: 10px;
+
+}
+
+
+.card{
+  width: 350;
+  border: none;
+  border-radius: 10px;
+
+  background-color: #fff;
+}
+
+
+
+.stats{
+
+    background: #f2f5f8 !important;
+
+    color: #000 !important;
+}
+.articles{
+  font-size:10px;
+  color: #a1aab9;
+}
+.number1{
+  font-weight:500;
+}
+.followers{
+    font-size:10px;
+  color: #a1aab9;
+
+}
+.number2{
+  font-weight:500;
+}
+.rating{
+    font-size:10px;
+  color: #a1aab9;
+}
+.number3{
+  font-weight:500;
+}
