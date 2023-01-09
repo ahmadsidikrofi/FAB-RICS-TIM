@@ -32,7 +32,7 @@
                         <div class="block-38-img">
                             <div class="block-38-header">
                                 <img src="image/tim/2.png" alt="Image placeholder" class="mb-4">
-                                <h3 class="block-38-heading h4">ORVALAMARVA</h3>
+                                <h3 class="block-38-heading h4"></h3>
                                 <p class="block-38-subheading">Diri Sendiri</p>
                             </div>
                             <div class="block-38-body">
@@ -47,7 +47,7 @@
                         <div class="block-38-img">
                             <div class="block-38-header">
                                 <img src="image/tim/3.png" alt="Image placeholder" class="mb-4">
-                                <h3 class="block-38-heading h4">ATAYA NAJLA</h3>
+                                <h3 class="block-38-heading h4"></h3>
                                 <p class="block-38-subheading">Yang Mudah Aja</p>
                             </div>
                             <div class="block-38-body">
@@ -62,7 +62,7 @@
                         <div class="block-38-img">
                             <div class="block-38-header">
                                 <img src="image/tim/4.png" alt="Image placeholder" class="mb-4">
-                                <h3 class="block-38-heading h4">RIDA NAPISA</h3>
+                                <h3 class="block-38-heading h4"></h3>
                                 <p class="block-38-subheading">DATABASE MODEL</p>
                             </div>
                             <div class="block-38-body">
@@ -77,7 +77,7 @@
                         <div class="block-38-img">
                             <div class="block-38-header">
                                 <img src="image/tim/4.png" alt="Image placeholder" class="mb-4">
-                                <h3 class="block-38-heading h4">RIDA NAPISA</h3>
+                                <h3 class="block-38-heading h4"></h3>
                                 <p class="block-38-subheading">DATABASE MODEL</p>
                             </div>
                             <div class="block-38-body">
@@ -92,7 +92,7 @@
                         <div class="block-38-img">
                             <div class="block-38-header">
                                 <img src="image/tim/4.png" alt="Image placeholder" class="mb-4">
-                                <h3 class="block-38-heading h4">RIDA NAPISA</h3>
+                                <h3 class="block-38-heading h4"></h3>
                                 <p class="block-38-subheading">DATABASE MODEL</p>
                             </div>
                             <div class="block-38-body">

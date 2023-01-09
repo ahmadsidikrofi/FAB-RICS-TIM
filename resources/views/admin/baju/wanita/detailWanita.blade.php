@@ -30,6 +30,7 @@
 
 <body>
     <!-- Open Content -->
+        {{-- perubahan 1 --}}
     <section class="bg-light">
         <div class="container pb-5">
             <div class="row">
