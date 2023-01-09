@@ -8,6 +8,7 @@
         </div>
     </div>
 </div>
+{{-- perubahan 2 --}}
 
     <div class="row">
         <div class="col">

@@ -22,7 +22,7 @@ $count = Cart::where('user_id', Auth::user()->id)->count()
     <link rel="stylesheet" href="css/owl.carousel.min.css">
     <link rel="stylesheet" href="css/owl.theme.default.min.css">
 
-
+{{-- perubahan 2 --}}
     <link rel="stylesheet" href="/css/aos.css">
 
     <link rel="stylesheet" href="/css/style.css">
@@ -61,7 +61,7 @@ $count = Cart::where('user_id', Auth::user()->id)->count()
                                             <li><a href="#">Pembayaran</a></li>
                                         </ul>
                                     </li>
-                                    
+
                                     @can('admin')
                                     <li><a href="/adminCheck"><span class="icon icon-check"></span></a></li>
                                     @endcan
