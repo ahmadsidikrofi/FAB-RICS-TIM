@@ -11,13 +11,18 @@
             </div>
         </div>
     </div>
-<!-- perubahan=3 -->
+<!-- perubahan 5 -->
+{{--  --}}
     <div class="form container mt-3">
         <div class="row g-0">
             <div class="col-lg-5 mt-3">
                 <img src="/image/items/{{ $bajuWanita->image }}" width="400px" class="rounded shadow bg-white" alt="">
             </div>
+<<<<<<< HEAD
                 {{-- perubahan 4 --}}
+=======
+                {{-- perubahan 5 --}}
+>>>>>>> 7212e4fbf629550cf65d9239099e634e15638174
 
             <div class="col-lg-7 px-5 pt-2">
                 <form action="/baju/woman/{{ $bajuWanita->id }}/update/store" method="post" enctype="multipart/form-data">

@@ -7,11 +7,16 @@ $grand = 0;
 
 @section('content')
 <<<<<<< HEAD
+<<<<<<< HEAD
 {{-- perubahan 4 --}}
 
 =======
 <!-- perubahan=3 -->
 >>>>>>> f8caec66772d1313fe6b3f5753f9402c5b348103
+=======
+<!-- perubahan 5 -->
+{{--  --}}
+>>>>>>> 7212e4fbf629550cf65d9239099e634e15638174
 <div class="site-section site-blocks-2 block-1 bg-light">
     <div class="container mt-2 mb-4">
         <div class="row">

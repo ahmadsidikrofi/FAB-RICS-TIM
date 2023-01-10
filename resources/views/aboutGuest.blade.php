@@ -1,6 +1,8 @@
 @extends('partials.navbarBefore')
 
 @section('content')
+{{-- Perubahan 5 --}}
+{{--  --}}
     <div class="site-section border-bottom" data-aos="fade">
         <div class="container">
             <div class="row justify-content-center mb-5">
@@ -20,8 +22,7 @@
                                 <p class="block-38-subheading">BackEnd Dev</p>
                             </div>
                             <div class="block-38-body">
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae aut minima nihil sit
-                                    distinctio recusandae doloribus ut fugit officia voluptate soluta. </p>
+                                <p>Sosok pria jenius nan sholeh yang mampu membuat wanitanya terpikat sepanjang masa </p>
                             </div>
                         </div>
                     </div>

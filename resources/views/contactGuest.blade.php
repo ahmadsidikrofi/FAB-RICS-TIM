@@ -15,12 +15,17 @@
     </style>
 </head>
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 {{-- perubahan 4 --}}
 
 =======
 <!-- perubahan=3 -->
 >>>>>>> f8caec66772d1313fe6b3f5753f9402c5b348103
+=======
+<!-- perubahan 5 -->
+{{--  --}}
+>>>>>>> 7212e4fbf629550cf65d9239099e634e15638174
 <body>
     <div class="container mt-3 position-absolute text-primary" data-aos-delay="400" data-aos="fade-down">
         <div class="row">

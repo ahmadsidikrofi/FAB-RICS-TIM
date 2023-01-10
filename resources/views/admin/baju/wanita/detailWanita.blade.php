@@ -27,7 +27,8 @@
     <link rel="stylesheet" type="text/css" href="/assets1/css/slick-theme.css">
 
 </head>
-<!-- perubahan=3 -->
+<!-- perubahan 5 -->
+{{--  --}}
 <body>
     <!-- Open Content -->
         {{-- perubahan 4 --}}

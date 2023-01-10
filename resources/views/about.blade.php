@@ -1,6 +1,8 @@
 @extends('partials.navbarAuth')
 
 @section('content')
+{{-- Perubahan 5 --}}
+{{--  --}}
     <div class="site-section border-bottom" data-aos="fade">
         <div class="container">
             <div class="row justify-content-center mb-5">
@@ -20,8 +22,7 @@
                                 <p class="block-38-subheading">BackEnd Dev</p>
                             </div>
                             <div class="block-38-body">
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae aut minima nihil sit
-                                    distinctio recusandae doloribus ut fugit officia voluptate soluta. </p>
+                                <p>Sosok pria jenius nan sholeh yang mampu membuat wanitanya terpikat sepanjang masa </p>
                             </div>
                         </div>
                     </div>
@@ -35,8 +36,8 @@
                                 <p class="block-38-subheading">Allah dulu, Allah lagi, Allah terus</p>
                             </div>
                             <div class="block-38-body">
-                                <p>Wanita sederhana yang memiliki cita-cita menjadi ibu yang baik serta tertarik untuk mendalami
-                                    bidang kepribadian manusia dan ilmu parenting </p>
+                                <p>Perempuan sederhana yang bercita-cita menjadi ibu yang baik dan tertarik mendalami bidang
+                                    kepribadian manusia juga ilmu parenting. </p>
                             </div>
                         </div>
                     </div>

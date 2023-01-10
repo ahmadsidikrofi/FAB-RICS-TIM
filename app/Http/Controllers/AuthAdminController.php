@@ -11,7 +11,7 @@ use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Hash;
 use App\Models\AuthAdmin as ModelsAuthAdmin;
 use Illuminate\Validation\ValidationException;
-
+// Perubahan 5
 class AuthAdminController extends Controller
 {
     public function regist_page()

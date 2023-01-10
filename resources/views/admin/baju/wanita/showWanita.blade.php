@@ -21,7 +21,12 @@
             opacity: 93%;
         }
     </style>
+<<<<<<< HEAD
         {{-- perubahan 4 --}}
+=======
+        {{-- perubahan 5 --}}
+        {{--  --}}
+>>>>>>> 7212e4fbf629550cf65d9239099e634e15638174
     <div class="container mt-5">
         <div class="row">
             <div class="col border-2">

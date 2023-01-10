@@ -40,10 +40,15 @@
 
 <body>
 <<<<<<< HEAD
+<<<<<<< HEAD
     {{-- perubahan 4 --}}
 =======
     {{-- perubahan 3 --}}
 >>>>>>> f8caec66772d1313fe6b3f5753f9402c5b348103
+=======
+    {{-- perubahan 5 --}}
+    {{--  --}}
+>>>>>>> 7212e4fbf629550cf65d9239099e634e15638174
     <section class="form my-4 mx-5 mt-5">
         <div class="container ">
             <div class="row g-0" style="box-shadow: 10px 10px 10px -2px rgba(0, 0, 0, 0.3)">
