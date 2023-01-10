@@ -27,7 +27,12 @@ $count = Cart::where('user_id', Auth::user()->id)->count()
     <link rel="stylesheet" href="/css/style.css">
 
 </head>
+<<<<<<< HEAD
 {{-- perubahan 4 --}}
+=======
+{{-- perubahan 2 --}}
+<!-- perubahan=3 -->
+>>>>>>> f8caec66772d1313fe6b3f5753f9402c5b348103
 <body>
     <div class="site-wrap">
         <!-- HEADER START  -->

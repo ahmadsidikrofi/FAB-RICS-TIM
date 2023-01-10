@@ -27,7 +27,7 @@
     <link rel="stylesheet" type="text/css" href="/assets1/css/slick-theme.css">
 
 </head>
-
+<!-- perubahan=3 -->
 <body>
     <!-- Open Content -->
     <section class="bg-light">

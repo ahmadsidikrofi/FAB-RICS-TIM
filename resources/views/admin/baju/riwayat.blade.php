@@ -7,9 +7,13 @@ $count = Cart::where('user_id', Auth::user()->id)->count()
 @extends('partials.navbarAuth')
 
 @section('content')
+<<<<<<< HEAD
 
 {{-- perubahan 4 --}}
 
+=======
+<!-- perubahan=3 -->
+>>>>>>> f8caec66772d1313fe6b3f5753f9402c5b348103
 <div class="site-section site-blocks-2 block-1 bg-white">
     <div class="container mt-2 mb-4">
         <div class="row">

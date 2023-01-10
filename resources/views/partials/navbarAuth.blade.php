@@ -22,7 +22,12 @@ $count = Cart::where('user_id', Auth::user()->id)->count()
     <link rel="stylesheet" href="css/owl.carousel.min.css">
     <link rel="stylesheet" href="css/owl.theme.default.min.css">
 
+<<<<<<< HEAD
 {{-- perubahan 4 --}}
+=======
+{{-- perubahan 2 --}}
+<!-- perubahan=3 -->
+>>>>>>> f8caec66772d1313fe6b3f5753f9402c5b348103
     <link rel="stylesheet" href="/css/aos.css">
 
     <link rel="stylesheet" href="/css/style.css">

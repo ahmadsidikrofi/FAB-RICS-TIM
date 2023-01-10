@@ -47,7 +47,11 @@
             </div>
         </form>
 
+<<<<<<< HEAD
             {{-- perubahan 4 --}}
+=======
+            {{-- perubahan 3 --}}
+>>>>>>> f8caec66772d1313fe6b3f5753f9402c5b348103
         <div class="container mt-4">
             <div class="col mb-4">
                 <form action="/account/profile/{{ Auth::user()->id }}/update/store" method="post" enctype="multipart/form-data">

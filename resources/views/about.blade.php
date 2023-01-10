@@ -31,12 +31,12 @@
                         <div class="block-38-img">
                             <div class="block-38-header">
                                 <img src="image/tim/2.png" alt="Image placeholder" class="mb-4">
-                                <h3 class="block-38-heading h4"></h3>
-                                <p class="block-38-subheading">Diri Sendiri</p>
+                                <h3 class="block-38-heading h4">ORVALAMARVA</h3>
+                                <p class="block-38-subheading">Allah dulu, Allah lagi, Allah terus</p>
                             </div>
                             <div class="block-38-body">
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae aut minima nihil sit
-                                    distinctio recusandae doloribus ut fugit officia voluptate soluta. </p>
+                                <p>Wanita sederhana yang memiliki cita-cita menjadi ibu yang baik serta tertarik untuk mendalami
+                                    bidang kepribadian manusia dan ilmu parenting </p>
                             </div>
                         </div>
                     </div>
@@ -104,9 +104,13 @@
             </div>
         </div>
     </div>
+<<<<<<< HEAD
 
     {{-- perubahan 4 --}}
 
+=======
+<!-- perubahan=3 -->
+>>>>>>> f8caec66772d1313fe6b3f5753f9402c5b348103
     <!-- Content page -->
     <section class="bg0 p-t-75 p-b-120 mt-5">
         <div class="container">

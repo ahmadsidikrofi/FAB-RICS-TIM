@@ -8,7 +8,11 @@
         </div>
     </div>
 </div>
+<<<<<<< HEAD
 {{-- perubahan 4 --}}
+=======
+{{-- perubahan 3 --}}
+>>>>>>> f8caec66772d1313fe6b3f5753f9402c5b348103
 
     <div class="row">
         <div class="col">

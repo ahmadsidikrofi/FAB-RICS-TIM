@@ -20,7 +20,11 @@
                         </li>
                     </ul>
                 </div>
+<<<<<<< HEAD
 {{-- perubahan 4 --}}
+=======
+{{-- perubahan 3 --}}
+>>>>>>> f8caec66772d1313fe6b3f5753f9402c5b348103
                 <div class="col-md-4 pt-5">
                     <h2 class="h2 text-primary border-bottom pb-3 border-light">Products</h2>
                     <ul class="list-unstyled text-light footer-link-list">
