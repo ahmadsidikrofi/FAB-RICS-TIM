@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 use App\Models\BajuPria;
 use App\Models\BajuWanita;
 use Illuminate\Http\Request;
-
+// Perubahan 5
 class PriaController extends Controller
 {
     public function show( Request $request )

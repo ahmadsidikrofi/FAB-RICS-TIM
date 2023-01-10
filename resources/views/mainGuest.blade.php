@@ -13,7 +13,8 @@
     <body>
         <div class="site-wrap">
             <!-- HEADER END  -->
-
+            {{-- Perubahan 5 --}}
+            {{--  --}}
 
             <!-- MAIN HERO START  -->
             <div class="site-blocks-cover" style="background-image: url(images/cloth_5.png);" data-aos="fade">

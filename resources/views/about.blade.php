@@ -1,6 +1,8 @@
 @extends('partials.navbarAuth')
 
 @section('content')
+{{-- Perubahan 5 --}}
+{{--  --}}
     <div class="site-section border-bottom" data-aos="fade">
         <div class="container">
             <div class="row justify-content-center mb-5">

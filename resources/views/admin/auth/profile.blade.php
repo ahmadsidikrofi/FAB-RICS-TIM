@@ -13,6 +13,8 @@
             </div>
         </div>
 
+        {{-- Perubahan 5 --}}
+        {{--  --}}
         <form action="/account/profile/{{ Auth::user()->id }}/foto_profile/store" method="post" enctype="multipart/form-data">
             @csrf
             @method("put")

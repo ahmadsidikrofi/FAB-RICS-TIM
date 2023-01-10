@@ -7,7 +7,8 @@ $count = Cart::where('user_id', Auth::user()->id)->count()
 @extends('partials.navbarAuth')
 
 @section('content')
-<!-- perubahan=3 -->
+<!-- perubahan 5 -->
+{{--  --}}
 <div class="site-section site-blocks-2 block-1 bg-white">
     <div class="container mt-2 mb-4">
         <div class="row">

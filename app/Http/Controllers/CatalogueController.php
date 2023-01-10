@@ -6,7 +6,7 @@ use App\Models\BajuAnak;
 use App\Models\BajuPria;
 use App\Models\BajuWanita;
 use Illuminate\Http\Request;
-
+// Perubahan 5
 class CatalogueController extends Controller
 {
     public function showCatalog()
