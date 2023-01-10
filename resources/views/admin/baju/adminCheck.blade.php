@@ -6,7 +6,7 @@ $grand = 0;
 @extends('partials.navbarAuth')
 
 @section('content')
-
+<!-- perubahan=3 -->
 <div class="site-section site-blocks-2 block-1 bg-light">
     <div class="container mt-2 mb-4">
         <div class="row">

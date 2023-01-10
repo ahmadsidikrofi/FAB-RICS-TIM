@@ -71,7 +71,7 @@
                         </div>
                     </div>
                 </div>
-
+<!-- perubahan=3 -->
                 <div class="offset-sm-2 col-lg-3">
                     <div class="block-38 text-center">
                         <div class="block-38-img">

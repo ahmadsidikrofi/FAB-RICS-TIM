@@ -1,4 +1,4 @@
-<!doctype html>
+3<!doctype html>
 <html lang="en">
 
 <head>
@@ -15,6 +15,7 @@
     </style>
 </head>
 {{-- perubahan 2 --}}
+<!-- perubahan=3 -->
 <body>
     <nav class="navbar navbar-expand-md bg-dark navbar-dark">
         <div class="container-fluid">

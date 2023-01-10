@@ -23,6 +23,7 @@ $count = Cart::where('user_id', Auth::user()->id)->count()
     <link rel="stylesheet" href="css/owl.theme.default.min.css">
 
 {{-- perubahan 2 --}}
+<!-- perubahan=3 -->
     <link rel="stylesheet" href="/css/aos.css">
 
     <link rel="stylesheet" href="/css/style.css">
